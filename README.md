@@ -22,5 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-Work must continue from https://guides.rubyonrails.org/getting_started.html#updating-an-article 
+https://guides.rubyonrails.org/getting_started.html#updating-an-article 
+Work must continue from 
